@@ -73,6 +73,8 @@ El foco estará en recursos en castellano, pero no se descartarán recursos en i
 
 - [Build a Quiz App with HTML, CSS, and JavaScript](https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript/) **1 section • 14 lectures • 02h 01m**
 
+- [Ania Kubow](https://www.youtube.com/c/AniaKub%C3%B3w)
+  Ania enseña a programar usando juegos.
 
 ### Manuals, References and Books
 
