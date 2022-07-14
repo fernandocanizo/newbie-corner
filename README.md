@@ -54,19 +54,19 @@ El foco estará en recursos en castellano, pero no se descartarán recursos en i
 
 ### Courses and Tutorials
 
-- [Front End Development For Beginners](https://www.udemy.com/course/front-end-development-for-beginners/)
+- [Front End Development For Beginners](https://www.udemy.com/course/front-end-development-for-beginners/) **40 sections • 40 lectures • 01h 58m**
 
-- [Web Developer Course HTML CSS JavaScript Learn Web Design](https://www.udemy.com/course/web-developer-course-on-creating-a-business-website/)
+- [Web Developer Course HTML CSS JavaScript Learn Web Design](https://www.udemy.com/course/web-developer-course-on-creating-a-business-website/) **9 sections • 82 lectures • 05h 56m**
 
 - [Basic Javascript](https://boot.dev/learn/learn-code-javascript) **12 hs**
 
-- [HTML & CSS Full Course - Beginner to Pro (2022)](https://www.youtube.com/watch?v=G3e-cpL7ofc)
+- [HTML & CSS Full Course - Beginner to Pro (2022)](https://www.youtube.com/watch?v=G3e-cpL7ofc) **06h 31m 23s**
 
-- [How to put an HTML website online (on the Internet) - 2022](https://www.youtube.com/watch?v=p1QU3kLFPdg)
+- [How to put an HTML website online (on the Internet) - 2022](https://www.youtube.com/watch?v=p1QU3kLFPdg) **29m 36s**
 
-- [BEST JavaScript Tutorial for Beginners for Getting a Job 2021 (High Quality, Project Based Course)](https://www.youtube.com/watch?v=DqaTKBU9TZk)
+- [BEST JavaScript Tutorial for Beginners for Getting a Job 2021 (High Quality, Project Based Course)](https://www.youtube.com/watch?v=DqaTKBU9TZk) **01h 45m 10s**
 
-- [Build a Quiz App with HTML, CSS, and JavaScript](https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript/)
+- [Build a Quiz App with HTML, CSS, and JavaScript](https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript/) **1 section • 14 lectures • 02h 01m**
 
 
 ### Manuals, References and Books
