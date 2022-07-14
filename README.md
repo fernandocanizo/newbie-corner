@@ -69,7 +69,7 @@ El foco estará en recursos en castellano, pero no se descartarán recursos en i
 - [Build a Quiz App with HTML, CSS, and JavaScript](https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript/)
 
 
-### Manuals and References
+### Manuals, References and Books
 
 - [MDN Guides](https://developer.mozilla.org/en-US/docs/Learn)
 
