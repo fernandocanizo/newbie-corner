@@ -11,7 +11,11 @@ El foco estará en recursos en castellano, pero no se descartarán recursos en i
 
 ## Herramientas
 
+- [Editor Visual Studio Code](https://code.visualstudio.com/)
+
 - [GitHub](https://github.com/)
+
+- [Git for Windows](https://gitforwindows.org/)
 
 
 ## Recursos en castellano
@@ -49,6 +53,7 @@ El foco estará en recursos en castellano, pero no se descartarán recursos en i
 - [El jardín de Javascrip](https://bonsaiden.github.io/JavaScript-Garden/es/)
   El propósito de este recurso no es enseñar lo básico, sino mostrar las peculiaridades del lenguaje. Por lo cual se recomienda tener un conocimiento básico de Javascript antes de usar este recurso.
 
+- [Pro Git](https://git-scm.com/book/es/v2)
 
 ## English resources
 
